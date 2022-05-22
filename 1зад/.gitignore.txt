@@ -1,0 +1,5 @@
+#будут игнорироваться файлы Thumbs.db
+Thumbs.db
+tmp/
+/tmp/
+*.txt
